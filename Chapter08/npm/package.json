@@ -1,0 +1,23 @@
+{
+  "name": "@wulfland/acceleratedevops",
+  "version": "1.0.1",
+  "description": "This is just a demo to set up a package in minutes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulfland/AccelerateDevOps.git"
+  },
+  "author": "Michael Kaufmann (@wulfland)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wulfland/AccelerateDevOps/issues"
+  },
+  "homepage": "https://github.com/wulfland/AccelerateDevOps#readme"
+}
