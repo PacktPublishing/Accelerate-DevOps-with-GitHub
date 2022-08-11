@@ -32,7 +32,7 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-name: ?? Custom Issue Form
+name: :bulb: Custom Issue Form
 description: A custom form with different fields
 body:
 - type: input
