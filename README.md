@@ -35,10 +35,10 @@ The code will look like the following:
 name: 💡 Custom Issue Form
 description: A custom form with different fields
 body:
-- type: input
-id: contact
-attributes:
-label: Contact Details
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
 ```
 
 **Following is what you need for this book:**
