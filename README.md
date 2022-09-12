@@ -28,7 +28,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 The examples and hands-on labs of this book are on GitHub at http://github.com/wulfland/AccelerateDevOps
 
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter03.
 
 The code will look like the following:
 ```
