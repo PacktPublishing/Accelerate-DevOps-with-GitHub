@@ -65,3 +65,7 @@ believes that people can be happy and productive at work. He loves DevOps, the c
 He is the founder and CEO of Xpirit Germany, and he has been working as a consultant and manager in the IT sector for more than 20 years. Michael helps his clients succeed: with cloud adoption, agile, and DevOps transformation.
 Microsoft has awarded him with the title Microsoft Regional Director (RD) and Microsoft Most Valuable Professional (MVP) - the latter in the category DevOps and GitHub - ever since 2015.
 Michael likes to share his knowledge in books, trainings, and as a speaker at international conferences.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801813358">https://packt.link/free-ebook/9781801813358 </a> </p>
